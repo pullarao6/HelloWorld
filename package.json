@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pullarao6/HelloWorld.git"
+  },
+  "author": "pullarao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pullarao6/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/pullarao6/HelloWorld#readme"
+}
