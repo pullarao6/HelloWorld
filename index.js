@@ -1,1 +1,1 @@
-module.exports = "Welcome to Hello World Pacakage with test branch";
+module.exports = "Hello World Branch";
